@@ -1,2 +1,0 @@
-model_checkpoint_path: "rnnModel_bigram.ckpt"
-all_model_checkpoint_paths: "rnnModel_bigram.ckpt"
